@@ -3,7 +3,7 @@
 
 # Desafio Backend Kolab / Backend Challenge Kolab
 
-## Table of Contents
+## Índice / Table of Contents
 
 - [Português](#português)
 - [English](#english)
@@ -264,7 +264,7 @@ export const databaseProviders = [
 ];
 ```
 
-## Running the program
+## Running the API
 
 ```bash
 # Start the application with npm
@@ -274,7 +274,7 @@ $ npm run start
 $ yarn start
 ```
 
-## Testing the program
+## Testing the API
 
 In your browser or your API Clients testing framework (Insomnia, Postman), access the URL: [http://localhost:3000](http://localhost:3000). On this page, you will find all the application methods through Swagger.
 
