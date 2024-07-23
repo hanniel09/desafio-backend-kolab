@@ -175,7 +175,7 @@ Antes de explicar todos os métodos da API, gostaria de recomendar que execute o
 
 | Parâmetro | Tipo     | Descrição                       |
 | :-------- | :------- | :-------------------------------- |
-| `Id, Body`      | `UUID, JSON` | **Obrigatório**. ID do usuário que será atualizado e Parâmetros para alterar o usuário, podendo ser alterado uma ou todos os parâmetros. Também é obrigatório de estar logado com um usuário ou será retornado **Unathorized**.|
+| `ID, Body`      | `UUID, JSON` | **Obrigatório**. ID do usuário que será atualizado e Parâmetros para alterar o usuário, podendo ser alterado uma ou todos os parâmetros. Também é obrigatório de estar logado com um usuário ou será retornado **Unathorized**.|
 
 #### Deletando um Usuário
 
